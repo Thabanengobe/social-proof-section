@@ -1,0 +1,44 @@
+
+:root{
+    --very-dark-magenta:hsl(300, 43%, 22%) ;
+    --soft-pink:hsl(333, 80%, 67%);
+
+    --dark-grayish-magenta:hsl(303, 10%, 53%) ;
+    --light-grayish-magenta:hsl(300, 24%, 96%);
+    --white:hsl(0, 0%, 100%);
+}
+
+body{
+    background-color: var(--white);
+}
+
+.reviews{
+    background-color: var(--very-dark-magenta);
+}
+
+.review{
+    color: var(--white);
+}
+.user-name{
+    color: var(--white);
+}
+.member-status{
+    color: var(--soft-pink);
+    opacity: 70%;
+}
+
+.rate{
+    background-color: var(--light-grayish-magenta);
+}
+
+.review-score{
+    color: var(--very-dark-magenta);
+}
+
+.about{
+    color: var(--very-dark-magenta);
+}
+
+.provided-service{
+    color: var(--dark-grayish-magenta);
+}
