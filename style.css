@@ -96,3 +96,8 @@ main{
 .service{
     padding: 1em 3em;
 }
+
+.attribution{
+    display: flex;
+    justify-content: space-around ;
+}
