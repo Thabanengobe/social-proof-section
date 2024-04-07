@@ -47,6 +47,7 @@
     .rate{
         flex-direction: column;
         padding: .5em 1em;
+        gap: .2em;
         width: 90%;
     }
     .rates{
