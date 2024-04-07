@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Live Site URL: [Github pages](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@thabanengobe](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@thabanengobe](https://www.frontendmentor.io/profile/thabanengobe)
