@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Live Site URL: [Github pages](https://thabanengobe.github.io/social-proof-section/)
 
 ## My process
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@thabanengobe](https://www.frontendmentor.io/profile/thabanengobe)
+- Frontend Mentor - [@thabanengobe](https://www.frontendmentor.io/profile/Thabanengobe)
