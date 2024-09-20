@@ -9,10 +9,9 @@
         grid-column: 1/2;
         gap: 1.2em;
     }
-    
     .users{
         grid-row: 3;
-        grid-column: 1;
+        grid-column: 1/2;
         flex-direction: column;
         gap: 1.5em
     }
@@ -27,6 +26,17 @@
 
 @media (max-width: 550px){
     
+    .provided-service{
+        width: 100%;
+        margin-top: 1em;
+        padding: 0em;
+    }
+    .social-proof{
+        margin: 0em;
+    }
+    .service{
+        padding: 0em;
+    }
     .attribution{
         flex-direction: column;
         align-content: center;
@@ -35,9 +45,7 @@
     .reviews{
         width: 75%;
     }
-    .service{
-        padding: .5em .5em;
-    }
+
     .stars{
         align-self: center;
     }
@@ -58,5 +66,8 @@
     }
     .rate-3{
         left:0em;
+    }
+    .reviews{
+        padding: 1em 2.6em;
     }
 }

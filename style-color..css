@@ -42,3 +42,7 @@ body{
 .provided-service{
     color: var(--dark-grayish-magenta);
 }
+
+.attribution{
+    color: var(--soft-pink);
+}

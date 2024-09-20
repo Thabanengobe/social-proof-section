@@ -5,16 +5,19 @@
     font-size: 15px;
 }
 main{
-    height: 90vh;
+    min-height: 90vh;
     display: flex;
     justify-self: center;
     align-self: center;
+    box-sizing: border-box;
+    margin: 1em;
 }
 .social-proof{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2em;
     align-self: center;
+    box-sizing: border-box;
     margin: 0em 2em;
 }
 
