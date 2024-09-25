@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-solution-FP5hxe1kld)
 - Live Site URL: [Github pages](https://thabanengobe.github.io/social-proof-section/)
 
 ## What  I have learned
